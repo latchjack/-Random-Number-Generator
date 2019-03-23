@@ -1,0 +1,38 @@
+* {
+  font-family: 'Margarine', cursive;
+  background-color: tomato;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-size: 8rem;
+  margin-top: 20px;
+}
+
+p {
+  font-size: 14rem;
+  text-align: center;
+  color: black;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+#centerB {
+  text-align: center;
+}
+
+#randomButton {
+  color: white;
+  background-color: tomato;
+  font-size: 3rem;
+  border-radius: 12px;
+  padding: 15px;
+  border-width: 3px;
+}
+
+#randomButton:hover {
+  color: black;
+  background-color: coral;
+  border-color: black;
+}
