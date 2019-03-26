@@ -36,3 +36,23 @@ p {
   background-color: coral;
   border-color: black;
 }
+
+/* Media Queries */
+
+@media (max-width: 960px) {
+  body {
+    background-color: royalblue;
+  }
+  p {
+    color: white;
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    background-color: green;
+  }
+  p {
+    color: blue;
+  }
+}
